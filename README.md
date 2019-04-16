@@ -1,2 +1,2 @@
 # wnt-projects
-Here wnt project in the project we are use html, php, javascript and more language. 
+Here wnt projects in the projects we are use .html, .php, .js and more languages. 
